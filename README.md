@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @errunlee
 - 👀 I’m interested in front-end-development.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on front end projects.
 -      From Lee and Company.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errunlee&layout=compact&theme=tokyonight)](https://github.com/errunlee/github-readme-stats)
 
