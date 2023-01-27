@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @errunlee
--    Undergraduate Student at Samriddhi College.
+- 👋 Hi, I’m ErrunLee. Undergrad Student at Samriddhi College.    
 - 👀 I’m interested in Front End Development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on front end projects.
