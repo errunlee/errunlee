@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @errunlee
-- 👀 I’m interested in front-end-development.
+-    Undergraduate Student at Samriddhi College.
+- 👀 I’m interested in Front End Development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on front end projects.
 -      From Lee and Company.
