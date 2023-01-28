@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ErrunLee. Undergrad Student at Samriddhi College.    
 - 👀 I’m interested in Front End Development.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on front end projects.
 -      From Lee and Company.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errunlee&layout=compact&theme=dark)](https://github.com/errunlee/github-readme-stats)
