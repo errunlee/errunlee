@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=errunlee)
 
 - 👋 Hi, I’m ErrunLee. Undergrad Student at Samriddhi College.    
 - 👀 I’m interested in Front End Development.
