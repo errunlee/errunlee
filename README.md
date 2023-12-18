@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m ErrunLee. Undergrad Student at Samriddhi College.    
+- 👋 Hi, I’m Arun Khatri. Undergrad Student at Samriddhi College.    
 - 👀 I’m interested in Fullstack Development.
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on front end projects.
