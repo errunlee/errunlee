@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Arun Khatri. Undergrad Student at Samriddhi College.    
-- 👀 I’m interested in Fullstack Development.
+- 👀 I’m interested in MERN Stack Development.
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on front end projects.
 -      From Lee and Company.
