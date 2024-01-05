@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m Arun Khatri. Undergrad Student at Samriddhi College.    
 - 👀 I’m interested in MERN Stack Development.
-- 🌱 I’m currently learning React JS.
-- 💞️ I’m looking to collaborate on front end projects.
+- 🌱 I’m currently learning React JS and Typescript.
+- 💞️ I’m looking to collaborate on webdev projects.
 - -->Reach out to me at admin@arunkhatri.com.np
 -      From Lee and Company.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errunlee&layout=compact&theme=dark)](https://github.com/errunlee/github-readme-stats)
