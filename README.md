@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=errunlee&theme=tokyonight)](https://github.com/errunlee/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=errunlee)](https://git.io/streak-stats)
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 
 <div>
