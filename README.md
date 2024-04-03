@@ -14,6 +14,7 @@
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"  title="typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -25,6 +26,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" title="tailwind" **alt="tailwind" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" **alt="redux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="" width="40" height="40"/>
+  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg' title='mongodb' width='40' height='40'/>
   
 </div>
 <!---
