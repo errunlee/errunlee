@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errunlee&layout=compact&theme=dark)](https://github.com/errunlee/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=errunlee&theme=tokyonight)](https://github.com/errunlee/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=errunlee&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=errunlee&theme=dark)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools
 
