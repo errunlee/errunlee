@@ -1,9 +1,15 @@
+# 👋 Hi, it's me Arun Khatri
 
-- 👋 Hi, I’m Arun Khatri. Undergrad Student at Samriddhi College.    
-- 👀 I’m interested in MERN Stack Development.
-- 🌱 I’m currently learning React JS and Typescript.
-- 💞️ I’m looking to collaborate on webdev projects.
-- -->Reach out to me at admin@arunkhatri.com.np
+I'm an undergraduate student at **Samriddhi College**, majoring in **Computer Science**.  
+How computers work has always fascinated me, but what excites me even more is making them work the way I want — through code.
+
+I love building things on the web, and right now I’m learning **Next.js** and **Advanced TypeScript**.  
+Problem-solving, crafting seamless user interfaces, and turning ideas into real, working apps  excites me.
+
+I'm always open to learning more and collaborating on exciting projects.
+
+📬 **Reach out to me at:** [admin@arunkhatri.com.np](mailto:admin@arunkhatri.com.np)
+
 -      From Lee and Company.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errunlee&layout=compact&theme=dark)](https://github.com/errunlee/github-readme-stats)
 
